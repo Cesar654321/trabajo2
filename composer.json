@@ -13,6 +13,7 @@
         "laravel/framework": "^6.0",
         "laravel/tinker": "^1.0",
         "infyomlabs/laravel-generator": "6.0.x-dev",
+        "infyomlabs/generator-builder": "dev-master",
         "infyomlabs/adminlte-templates": "6.0.x-dev",
         "laravelcollective/html": "^6.0",
         "doctrine/dbal": "~2.3",
